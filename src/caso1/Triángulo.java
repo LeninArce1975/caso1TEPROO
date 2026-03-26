@@ -25,6 +25,6 @@ public void setAltura(double altura) {
 	this.altura = altura;
 }
 public double Área() {
-	return base*altura/3;
+	return base*altura/4;
 }
 }
